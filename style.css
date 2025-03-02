@@ -1,0 +1,14 @@
+.carousel img {
+    object-fit: cover;
+    height: 500px;
+}
+
+/* Carousel base class */
+.carousel {
+    margin-bottom: 4rem;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+    height: 32rem;
+}
